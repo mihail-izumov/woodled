@@ -298,7 +298,7 @@ export default defineConfig({
       }
     `]
   ],
-  base: '/',
+  base: '/woodled/',
   cleanUrls: true,
   appearance: false,
   outDir: '.vitepress/dist',
